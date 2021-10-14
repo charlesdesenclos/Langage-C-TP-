@@ -10,9 +10,9 @@
 
 int main()
 {
-	char str[101]; //CH
-	char *P; //PCH
-	int compteur[26], *ABC, compteur_espace=0; // ABC, *PABC
+	char str[101]; 
+	char *P; 
+	int compteur[26], *ABC, compteur_espace=0; 
 	
 
 	printf("Entrez un texte : \n");

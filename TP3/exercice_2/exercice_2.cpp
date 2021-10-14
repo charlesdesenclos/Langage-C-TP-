@@ -33,7 +33,7 @@ int main()
 
 	for (i = 0; str[i] != '\0'; ++i) //permet de trouver la position
 	{
-		if (str[i] == c)
+		if (str[i] == c)   //si str est égale à la lettre qui se trouve dans c alors on incrémente occurence
 			++occurrence;
 	}
 	

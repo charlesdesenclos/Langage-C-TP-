@@ -18,14 +18,6 @@ int main()
 	printf("Entrez un texte : \n");
 	gets_s(str);
 	
-	
-
-
-
-
-
-
-
 	for (ABC = compteur; ABC < compteur + 26; ABC++) //tableau
 	{
 		*ABC = 0;

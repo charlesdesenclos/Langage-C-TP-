@@ -1,0 +1,6 @@
+﻿  exercice_2.cpp
+c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(11): warning C4101: 'a' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(11): warning C4101: 'k' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(12): warning C4101: 'l' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(33): error C4700: variable locale 's' non initialisée utilisée
+c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(35): error C4700: variable locale 'carac' non initialisée utilisée

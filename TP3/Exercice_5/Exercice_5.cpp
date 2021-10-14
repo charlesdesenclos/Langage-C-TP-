@@ -17,6 +17,7 @@ int main()
 
 	while (str[i] != '\0')
 	{
+		//on va faire une boucle if pur si str possède un espace alors on enlevera un espace 
 		if ((str[i] == ' ' && str[i+0] == ' ') !=1) // i+0 permet d'enlever l'espace
 		{ 
 			res[j] = str[i];

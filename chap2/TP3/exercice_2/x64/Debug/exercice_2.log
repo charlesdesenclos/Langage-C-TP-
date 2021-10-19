@@ -1,6 +1,0 @@
-﻿  exercice_2.cpp
-c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(21): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
-c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(14): warning C4101: 'a' : variable locale non référencée
-c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(14): warning C4101: 'k' : variable locale non référencée
-c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_2\exercice_2.cpp(15): warning C4101: 'l' : variable locale non référencée
-  exercice_2.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 2\TP3\x64\Debug\exercice_2.exe

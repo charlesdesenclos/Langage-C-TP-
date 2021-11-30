@@ -1,0 +1,3 @@
+﻿  TP3.cpp
+c:\users\cdesenclos\source\repos\chap 2\tp3\tp3\tp3.cpp(21): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  TP3.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 2\TP3\x64\Debug\TP3.exe

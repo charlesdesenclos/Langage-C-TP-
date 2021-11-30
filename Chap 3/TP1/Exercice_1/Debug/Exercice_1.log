@@ -1,0 +1,5 @@
+﻿  Exercice_1.cpp
+c:\users\cdesenclos\source\repos\chap 3\tp1\exercice_1\exercice_1.cpp(135): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+c:\users\cdesenclos\source\repos\chap 3\tp1\exercice_1\exercice_1.cpp(170): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+c:\users\cdesenclos\source\repos\chap 3\tp1\exercice_1\exercice_1.cpp(128): warning C4101: 'i' : variable locale non référencée
+  Exercice_1.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 3\TP1\Debug\Exercice_1.exe

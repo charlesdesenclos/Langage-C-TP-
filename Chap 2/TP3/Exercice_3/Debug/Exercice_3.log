@@ -1,0 +1,4 @@
+﻿  Exercice_3.cpp
+c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_3\exercice_3.cpp(54): warning C4474: 'printf' : trop d'arguments passés pour la chaîne de format
+  c:\users\cdesenclos\source\repos\chap 2\tp3\exercice_3\exercice_3.cpp(54): note: les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+  Exercice_3.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 2\TP3\Debug\Exercice_3.exe

@@ -1,0 +1,5 @@
+﻿  TP2.cpp
+c:\users\cdesenclos\source\repos\chap 3\tp2\tp2\tp2.cpp(29): warning C4715: 'multiple3' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\cdesenclos\source\repos\chap 3\tp2\tp2\tp2.cpp(20): warning C4715: 'multiple2' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\cdesenclos\source\repos\chap 3\tp2\tp2\tp2.cpp(46): warning C4715: 'multiple6' : les chemins de contrôle ne retournent pas tous une valeur
+  TP2.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 3\TP2\Debug\TP2.exe

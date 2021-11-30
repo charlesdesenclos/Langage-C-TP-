@@ -1,0 +1,4 @@
+﻿  Exercice 4.cpp
+c:\users\cdesenclos\source\repos\chap 3\tp2\exercice 4\exercice 4.cpp(73): warning C4101: 'swapDone' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 3\tp2\exercice 4\exercice 4.cpp(75): warning C4101: 'i' : variable locale non référencée
+  Exercice 4.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 3\TP2\Debug\Exercice 4.exe

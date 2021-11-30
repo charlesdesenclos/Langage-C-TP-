@@ -11,7 +11,7 @@ int main()
 {
 	char str[100];
 	int i;
-	printf("Entrez votre chaine :");
+	printf("votre chaine :");
 	gets_s(str);
 
 	for (i = 0; str[i] != '\0'; i++)
@@ -19,6 +19,7 @@ int main()
 		if (str[i] >= 'A' && str[i] <= 'Z')
 		{
 			str[i] = str[i] + 32; //utilisation de la table ascii on rajoute +32 à la valeur décimale de la lettre en masjucule pour obtenir la meme lettre en minuscule
+			                      //exemple on prend A , son décimal est 65 on fait 65+32=97 donc cela donnera a
 
 		}
 	}

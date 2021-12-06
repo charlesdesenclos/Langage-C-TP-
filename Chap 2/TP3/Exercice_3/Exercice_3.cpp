@@ -18,6 +18,14 @@ int main()
 	printf("Entrez un texte : \n");
 	gets_s(str);
 	
+	
+
+
+
+
+
+
+
 	for (ABC = compteur; ABC < compteur + 26; ABC++) //tableau
 	{
 		*ABC = 0;
@@ -25,15 +33,15 @@ int main()
 
 	for (P = str; *P; P++) // permet de compter
 	{
-		if (*P >= 'A' && *P <= 'Z') // compter pour les lettres majuscules
+		if (*P >= 'A' && *P <= 'Z')
 		{
 			(*(compteur + (*P - 'A')))++;
 		}
-		if(*P>='a' && *P<='z') //compter pour les lettres miniscules
+		if(*P>='a' && *P<='z')
 		{
 			(*(compteur + (*P - 'a')))++;
 		}
-		if (*P == ' ') //compter les espaces
+		if (*P == ' ')
 		{
 			compteur_espace++;
 		}
@@ -41,10 +49,10 @@ int main()
 	}
 
 	// Affiche :
-	printf("Le nombre d'espace est de : %d\t\n", compteur_espace); //affiche le nombre d'espace 
+	printf("Le nombre d'espace est de : %d\t\n", compteur_espace);
 	
 	printf("La chaine contient : \n", str);
-	for (ABC = compteur; ABC < compteur + 26; ABC++)  // va permettre d'afficher le nombre de lettre pour chaque lettre
+	for (ABC = compteur; ABC < compteur + 26; ABC++)
 	{
 		if (*ABC)
 		{

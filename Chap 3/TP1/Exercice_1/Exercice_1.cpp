@@ -109,7 +109,7 @@ int main()
 	printf("Entrez y :\n");
 	scanf("%d", &y);
 
-	printf("Le résultat pour %d puissance %d est : %d", x, y, puissance(x, y));
+	printf("Le resultat pour %d puissance %d est : %d", x, y, puissance(x, y));
 
 	// Exercice 2
 	printf("\n\nExercice 2\n\n");
@@ -128,9 +128,9 @@ int main()
 
 	printf("\n\nExercice4 \n\n");
 	int nbr1, nbr2;
-	printf("Entrez une première valeur :");
+	printf("Entrez une premiere valeur :");
 	scanf("%d", &nbr1);
-	printf("Entrez une deuxième valeur :");
+	printf("Entrez une deuxieme valeur :");
 	scanf("%d", &nbr2);
 	printf("Le PGCD de %d et %d est de %d", nbr1, nbr2, pgcd(nbr1, nbr2));
 
@@ -140,7 +140,7 @@ int main()
 	int n;
 	printf("Entrez la valeur n :");
 	scanf("%d", &n);
-	printf("Le résultat de n! est : %d", calcul(n));
+	printf("Le resultat de n! est : %d", calcul(n));
 
 
 

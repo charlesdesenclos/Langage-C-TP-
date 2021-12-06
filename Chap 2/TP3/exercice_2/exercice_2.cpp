@@ -21,7 +21,7 @@ int main()
 	t = strlen(str);
 
 	rev[t] = '\0';
-	for (i = t - 1; i >= 0; i--)  //cela retourne la chaine de caractère pour après pouvoir trouver la position 
+	for (i = t - 1; i >= 0; i--)
 	{
 		rev[j++] = str[i];
 	}
@@ -31,13 +31,13 @@ int main()
 	printf("Entrez la lettre recherche :");
 	scanf("%c", &c);
 
-	for (i = 0; str[i] != '\0'; ++i) //permet de trouver la position
+	for (i = 0; str[i] != '\0'; ++i)
 	{
-		if (str[i] == c)   //si str est égale à la lettre qui se trouve dans c alors on incrémente occurence
+		if (str[i] == c)
 			++occurrence;
 	}
 	
 
-	printf("caractere %c à la position %d, a partir de la droite", c, occurrence); //affiche la position ainsi que le caractère souhaiter
+	printf("caractere %c à la position %d, a partir de la droite", c, occurrence);
 	return 0;
 }

@@ -12,10 +12,16 @@
 
 char inverse(char *ch)
 {
-	int i;
-	for (i = strlen(ch) - 1; i >= 0; i--)
+	int i = 0, j = strlen(ch) - 1;
+	char tmp;
+
+	while (i < j)
 	{
-		printf("%c", ch[i]);
+		tmp = ch[i];
+		ch[i] = ch[j];
+		ch[j] = tmp;
+		i++;
+		j--;
 	}
 	return ch[i];
 }
@@ -34,8 +40,8 @@ int main()
 
 
 
-
-	printf("La chaine inversée est : %s", inverse(str));
+	inverse(str);
+	printf("La chaine inversee est : %s", str);
 
 	return 0;
 }

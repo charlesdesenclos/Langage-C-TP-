@@ -1,6 +1,4 @@
 ﻿  TP1.cpp
-c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\tp1\tp1.cpp(17): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'float *'
-c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\tp1\tp1.cpp(18): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'float *'
-c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\tp1\tp1.cpp(27): warning C4305: '=' : troncation de 'double' à 'float'
-c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\tp1\tp1.cpp(28): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\tp1\tp1.cpp(35): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\tp1\tp1.cpp(36): warning C4305: '=' : troncation de 'double' à 'float'
   TP1.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 4\TP 1\TP1\Debug\TP1.exe

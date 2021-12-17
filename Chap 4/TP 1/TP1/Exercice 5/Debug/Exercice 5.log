@@ -1,0 +1,6 @@
+﻿  Exercice 5.cpp
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\exercice 5\exercice 5.cpp(28): warning C4101: 'a' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\exercice 5\exercice 5.cpp(29): warning C4101: 'b' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\exercice 5\exercice 5.cpp(30): warning C4101: 'c' : variable locale non référencée
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\exercice 5\exercice 5.cpp(66): warning C4172: retourne l'adresse d'une variable locale ou : aa temporaire
+  Exercice 5.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 4\TP 1\TP1\Debug\Exercice 5.exe

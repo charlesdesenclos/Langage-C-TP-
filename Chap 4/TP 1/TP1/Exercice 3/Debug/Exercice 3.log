@@ -1,0 +1,4 @@
+﻿  Exercice 3.cpp
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\exercice 3\exercice 3.cpp(14): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\cdesenclos\source\repos\chap 4\tp 1\tp1\exercice 3\exercice 3.cpp(16): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
+  Exercice 3.vcxproj -> C:\Users\CDesenclos\source\repos\Chap 4\TP 1\TP1\Debug\Exercice 3.exe

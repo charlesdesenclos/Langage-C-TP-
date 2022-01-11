@@ -1,0 +1,22 @@
+Le but du TP est de manipuler en lecture et en écriture un fichier texte nommé « source.txt ».
+Pour ce faire vous allez dans un premier créer un fichier (nommé « source.txt ») avec le bloc
+note en écrivant un texte quelconque dedans.
+Question n° 1
+Avec une application écrite en C, vous allez ouvrir le fichier « source.txt » en lecture, et
+afficher son contenu caractère par caractère à l’écran à l’aide de la fonction getc.
+Refermez ensuite le fichier.
+Question n° 2
+Ouvrir le fichier « source.txt » en lecture, et un fichier que vous nommerez « dest1.txt » en
+écriture, puis copier chaque caractère du fichier source dans le fichier de destination.
+Refermez le fichier.
+Question n° 3
+Ouvrir le fichier « source.txt » en lecture, et un fichier que vous nommerez « dest2.txt » en
+écriture, puis vous copier chaque caractère du fichier source dans le fichier de destination
+mais sans copier la lettre ‘a’ dès que vous la trouverez dans le fichier source.
+Refermez le fichier.
+Question n° 4
+Ecrire une fonction ayant un pointeur de fichier en argument (pointeur sur un fichier qui sera
+déjà ouvert dans le programme principal) et qui retournera un entier. Cette fonction aura pour
+but de calculer et de retourner la taille du fichier (en octets).
+Essayez votre fonction avec les trois fichiers utilisés (source.txt, dest1.txt,dest2.txt).
+La fermeture du fichier se fera dans le programme principal.

@@ -1,0 +1,6 @@
+﻿  test.cpp
+c:\users\darkt\source\repos\langage-c-tp--main\chap 4\tp 1\tp1\test\test.cpp(18): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\darkt\source\repos\langage-c-tp--main\chap 4\tp 1\tp1\test\test.cpp(25): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\darkt\source\repos\langage-c-tp--main\chap 4\tp 1\tp1\test\test.cpp(26): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\darkt\source\repos\langage-c-tp--main\chap 4\tp 1\tp1\test\test.cpp(52): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  test.vcxproj -> C:\Users\darkt\source\repos\Langage-C-TP--main\Chap 4\TP 1\TP1\Debug\test.exe
